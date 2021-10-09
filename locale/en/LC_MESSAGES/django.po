@@ -1,0 +1,249 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-10 01:02+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\projectshop\settings.py:68
+msgid "Uzbek"
+msgstr ""
+
+#: .\projectshop\settings.py:69
+msgid "English"
+msgstr ""
+
+#: .\template\shopping-cart.html:26
+msgid "Remove"
+msgstr ""
+
+#: .\template\shopping-cart.html:27
+msgid "Image"
+msgstr ""
+
+#: .\template\shopping-cart.html:28
+msgid "Product Name"
+msgstr ""
+
+#: .\template\shopping-cart.html:29
+msgid "Quantity"
+msgstr ""
+
+#: .\template\shopping-cart.html:30
+msgid "Subtotal"
+msgstr ""
+
+#: .\template\shopping-cart.html:31
+msgid "Grandtotal"
+msgstr ""
+
+#: .\template\wrapper.html:47 .\template\wrapper.html:358
+msgid "My Account"
+msgstr ""
+
+#: .\template\wrapper.html:48 .\template\wrapper.html:204
+msgid "Wishlist"
+msgstr ""
+
+#: .\template\wrapper.html:49
+msgid "My Cart"
+msgstr ""
+
+#: .\template\wrapper.html:50 .\template\wrapper.html:154
+#: .\template\wrapper.html:199
+msgid "Checkout"
+msgstr ""
+
+#: .\template\wrapper.html:51
+msgid "Login"
+msgstr ""
+
+#: .\template\wrapper.html:65
+msgid "LANGUAGES"
+msgstr ""
+
+#: .\template\wrapper.html:104
+msgid "Categories"
+msgstr ""
+
+#: .\template\wrapper.html:106
+msgid "Computer"
+msgstr ""
+
+#: .\template\wrapper.html:107
+msgid "Clothing"
+msgstr ""
+
+#: .\template\wrapper.html:108
+msgid "Electronics"
+msgstr ""
+
+#: .\template\wrapper.html:109
+msgid "Shoes"
+msgstr ""
+
+#: .\template\wrapper.html:110
+msgid "Watches"
+msgstr ""
+
+#: .\template\wrapper.html:129
+msgid "Shopping Cart"
+msgstr ""
+
+#: .\template\wrapper.html:141
+msgid "Simple Product"
+msgstr ""
+
+#: .\template\wrapper.html:152
+msgid "Sub Total"
+msgstr ""
+
+#: .\template\wrapper.html:180
+msgid "Toggle navigation"
+msgstr ""
+
+#: .\template\wrapper.html:188
+msgid "Pages"
+msgstr ""
+
+#: .\template\wrapper.html:195
+msgid "Home"
+msgstr ""
+
+#: .\template\wrapper.html:196
+msgid "Category"
+msgstr ""
+
+#: .\template\wrapper.html:197
+msgid "Detail"
+msgstr ""
+
+#: .\template\wrapper.html:198
+msgid "Shopping Cart Summary"
+msgstr ""
+
+#: .\template\wrapper.html:200 .\template\wrapper.html:397
+msgid "Blog"
+msgstr ""
+
+#: .\template\wrapper.html:201
+msgid "Blog Detail"
+msgstr ""
+
+#: .\template\wrapper.html:202
+msgid "Contact"
+msgstr ""
+
+#: .\template\wrapper.html:203
+msgid "Sign In"
+msgstr ""
+
+#: .\template\wrapper.html:205
+msgid "Terms and Condition"
+msgstr ""
+
+#: .\template\wrapper.html:206
+msgid "Track Orders"
+msgstr ""
+
+#: .\template\wrapper.html:207
+msgid "Product-Comparison"
+msgstr ""
+
+#: .\template\wrapper.html:208
+msgid "FAQ"
+msgstr ""
+
+#: .\template\wrapper.html:209
+msgid "404"
+msgstr ""
+
+#: .\template\wrapper.html:217
+#, python-format
+msgid "Get 30%% off on selected items"
+msgstr ""
+
+#: .\template\wrapper.html:291
+msgid "We ship worldwide"
+msgstr ""
+
+#: .\template\wrapper.html:297
+msgid "Call"
+msgstr ""
+
+#: .\template\wrapper.html:303
+msgid "Money Back Guarantee"
+msgstr ""
+
+#: .\template\wrapper.html:309
+msgid "30 days return"
+msgstr ""
+
+#: .\template\wrapper.html:330
+msgid "ThemesGround, 789 Main rd, Anytown, CA 12345 USA"
+msgstr ""
+
+#: .\template\wrapper.html:352 .\template\wrapper.html:378
+msgid "Customer Service"
+msgstr ""
+
+#: .\template\wrapper.html:359
+msgid "Order History"
+msgstr ""
+
+#: .\template\wrapper.html:361
+msgid "Specials"
+msgstr ""
+
+#: .\template\wrapper.html:362
+msgid "Help Center"
+msgstr ""
+
+#: .\template\wrapper.html:371
+msgid "Corporation"
+msgstr ""
+
+#: .\template\wrapper.html:377
+msgid "About us"
+msgstr ""
+
+#: .\template\wrapper.html:379
+msgid "Company"
+msgstr ""
+
+#: .\template\wrapper.html:380 .\template\wrapper.html:399
+msgid "Investor Relations"
+msgstr ""
+
+#: .\template\wrapper.html:381
+msgid "Advanced Search"
+msgstr ""
+
+#: .\template\wrapper.html:390
+msgid "Why Choose Us"
+msgstr ""
+
+#: .\template\wrapper.html:396
+msgid "Shopping Guide"
+msgstr ""
+
+#: .\template\wrapper.html:400
+msgid "Contact Us"
+msgstr ""
+
+#: .\template\wrapper.html:421
+msgid "Bu sayt shabloni crek qilindi"
+msgstr ""

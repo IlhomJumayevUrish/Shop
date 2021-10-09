@@ -1,0 +1,273 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-10 01:02+0500\n"
+"PO-Revision-Date: 2021-04-10 01:02+0437\n"
+"Last-Translator: b'  <ilhomjumayev6022@gmail.com>'\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Translated-Using: django-rosetta 0.9.6\n"
+
+#: .\projectshop\settings.py:68
+msgid "Uzbek"
+msgstr "Uzbek tili"
+
+#: .\projectshop\settings.py:69
+msgid "English"
+msgstr "English"
+
+#: .\template\shopping-cart.html:26
+msgid "Remove"
+msgstr "O'chirish"
+
+#: .\template\shopping-cart.html:27
+msgid "Image"
+msgstr "Rasm"
+
+#: .\template\shopping-cart.html:28
+msgid "Product Name"
+msgstr "Tavar nomi"
+
+#: .\template\shopping-cart.html:29
+msgid "Quantity"
+msgstr "Soni"
+
+#: .\template\shopping-cart.html:30
+msgid "Subtotal"
+msgstr "Narxi"
+
+#: .\template\shopping-cart.html:31
+msgid "Grandtotal"
+msgstr "Jami summa"
+
+#: .\template\wrapper.html:47 .\template\wrapper.html:358
+msgid "My Account"
+msgstr "Mening hisobim"
+
+#: .\template\wrapper.html:48 .\template\wrapper.html:204
+msgid "Wishlist"
+msgstr "Yoqqan Tavarlar"
+
+#: .\template\wrapper.html:49
+msgid "My Cart"
+msgstr "Savatcha"
+
+#: .\template\wrapper.html:50 .\template\wrapper.html:154
+#: .\template\wrapper.html:199
+msgid "Checkout"
+msgstr "Tekshirish"
+
+#: .\template\wrapper.html:51
+msgid "Login"
+msgstr "Kirish"
+
+#: .\template\wrapper.html:65
+msgid "LANGUAGES"
+msgstr "TIL"
+
+#: .\template\wrapper.html:104
+msgid "Categories"
+msgstr "Bo'limlar"
+
+#: .\template\wrapper.html:106
+msgid "Computer"
+msgstr "Kompyuter"
+
+#: .\template\wrapper.html:107
+msgid "Clothing"
+msgstr "Kiyim"
+
+#: .\template\wrapper.html:108
+msgid "Electronics"
+msgstr "Elektron mahsulotlar"
+
+#: .\template\wrapper.html:109
+msgid "Shoes"
+msgstr "Poyafzal"
+
+#: .\template\wrapper.html:110
+msgid "Watches"
+msgstr "Soatlar"
+
+#: .\template\wrapper.html:129
+msgid "Shopping Cart"
+msgstr "Xarid savati"
+
+#: .\template\wrapper.html:141
+msgid "Simple Product"
+msgstr "Oddiy mahsulot"
+
+#: .\template\wrapper.html:152
+msgid "Sub Total"
+msgstr "Hammasi bo'lib"
+
+#: .\template\wrapper.html:180
+msgid "Toggle navigation"
+msgstr "Navigatsiyani yoqing"
+
+#: .\template\wrapper.html:188
+msgid "Pages"
+msgstr "Sahifalar"
+
+#: .\template\wrapper.html:195
+msgid "Home"
+msgstr "Uy"
+
+#: .\template\wrapper.html:196
+msgid "Category"
+msgstr "Bo'lim"
+
+#: .\template\wrapper.html:197
+msgid "Detail"
+msgstr "Batafsil"
+
+#: .\template\wrapper.html:198
+msgid "Shopping Cart Summary"
+msgstr "Savat uchun qisqacha ma'lumo"
+
+#: .\template\wrapper.html:200 .\template\wrapper.html:397
+msgid "Blog"
+msgstr "Blog"
+
+#: .\template\wrapper.html:201
+msgid "Blog Detail"
+msgstr "Blog haqida"
+
+#: .\template\wrapper.html:202
+msgid "Contact"
+msgstr "Aloqa"
+
+#: .\template\wrapper.html:203
+msgid "Sign In"
+msgstr "Tizimga krish"
+
+#: .\template\wrapper.html:205
+msgid "Terms and Condition"
+msgstr "Shartlar va shartlar"
+
+#: .\template\wrapper.html:206
+msgid "Track Orders"
+msgstr "Buyurtmalarni kuzatib borish"
+
+#: .\template\wrapper.html:207
+msgid "Product-Comparison"
+msgstr "Mahsulotni-Taqqoslash"
+
+#: .\template\wrapper.html:208
+msgid "FAQ"
+msgstr ""
+
+#: .\template\wrapper.html:209
+msgid "404"
+msgstr ""
+
+#: .\template\wrapper.html:217
+#, python-format
+msgid "Get 30%% off on selected items"
+msgstr ""
+
+#: .\template\wrapper.html:291
+msgid "We ship worldwide"
+msgstr "Dunyo bo'ylab yetkazib berish"
+
+#: .\template\wrapper.html:297
+msgid "Call"
+msgstr "Tel"
+
+#: .\template\wrapper.html:303
+msgid "Money Back Guarantee"
+msgstr "Pulni qaytarib berish kafolati"
+
+#: .\template\wrapper.html:309
+#, fuzzy
+msgid "30 days return"
+msgstr "30 kunda yetkaziladi"
+
+#: .\template\wrapper.html:330
+msgid "ThemesGround, 789 Main rd, Anytown, CA 12345 USA"
+msgstr ""
+
+#: .\template\wrapper.html:352 .\template\wrapper.html:378
+msgid "Customer Service"
+msgstr ""
+
+#: .\template\wrapper.html:359
+msgid "Order History"
+msgstr ""
+
+#: .\template\wrapper.html:361
+msgid "Specials"
+msgstr ""
+
+#: .\template\wrapper.html:362
+msgid "Help Center"
+msgstr ""
+
+#: .\template\wrapper.html:371
+msgid "Corporation"
+msgstr ""
+
+#: .\template\wrapper.html:377
+msgid "About us"
+msgstr ""
+
+#: .\template\wrapper.html:379
+msgid "Company"
+msgstr ""
+
+#: .\template\wrapper.html:380 .\template\wrapper.html:399
+msgid "Investor Relations"
+msgstr ""
+
+#: .\template\wrapper.html:381
+msgid "Advanced Search"
+msgstr ""
+
+#: .\template\wrapper.html:390
+msgid "Why Choose Us"
+msgstr ""
+
+#: .\template\wrapper.html:396
+#, fuzzy
+#| msgid "Shopping Cart"
+msgid "Shopping Guide"
+msgstr "Xarid savati"
+
+#: .\template\wrapper.html:400
+#, fuzzy
+#| msgid "Contact"
+msgid "Contact Us"
+msgstr "Aloqa"
+
+#: .\template\wrapper.html:421
+msgid "Bu sayt shabloni crek qilindi"
+msgstr ""
+
+#~ msgid "O'chirish"
+#~ msgstr "------------"
+
+#~ msgid "Foto"
+#~ msgstr "---------------"
+
+#~ msgid "Tavar nomi"
+#~ msgstr "-------------"
+
+#~ msgid "Soni"
+#~ msgstr "-------------------"
+
+#~ msgid "Narxi"
+#~ msgstr "-----------------"
+
+#~ msgid "Jami summa"
+#~ msgstr "-------------------"

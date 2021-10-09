@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  {% load static %}
+  {% load static %}
+  {% load i18n %}
+  {% load thumbnail %}
+  
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style="background-color: yellowgreen;">
+
+{% for i in context%}
+    <div class="gallery">
+      <p><b> {% trans "Product name"%}:</b> {{i.product.title}}</p>
+
+
+      {% thumbnail i.product.image "200x200" crop="center" as im %}
+      <img src="{{ im.url }}" width="{{ 300 }}" height="{{ 200 }}">
+    {% endthumbnail %}     
+     <!-- <img src="{{i.product.image.url}}" alt="Rasm bor edi"> -->
+      <p> <b> {% trans "Price"%}:</b> {{i.price}}</p>
+      <p> <b>{% trans "Quantity"%}: </b>{{i.qty}}</p>
+    </div>
+{% endfor%}
+  
+<style>
+        div.gallery {
+        margin: 10px;
+        border: 1px solid #ccc;
+        padding: 0 15px ;
+        width: 180px;
+        }
+
+        div.gallery:hover {
+        border: 1px solid rgb(251, 255, 7);
+        background-color: #777;
+        }
+
+        div.gallery img {
+        width: 100%;
+        height: auto;
+        }
+
+</style>
+</body>
+</html>
