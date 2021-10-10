@@ -12,6 +12,8 @@ django-parler = "*"
 rosetta = "*"
 djangorestframework = "*"
 django-celery-results = "*"
+scipy = "*"
+nltk = "*"
 
 [dev-packages]
 
