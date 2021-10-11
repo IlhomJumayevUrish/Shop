@@ -21,8 +21,8 @@ SECRET_KEY = '2+h7il=nd@75ys(rgiuw_9@fh78ngrzc*ip)^gfr14d7okvqav'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
-
-ALLOWED_HOSTS = []
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+ALLOWED_HOSTS = ['*']
 settings.DATA_UPLOAD_MAX_MEMORY_SIZE = 9242880
 # Application definition
 INSTALLED_APPS = [
